@@ -1,1 +1,2 @@
-# Introduccion-a-la-informatica
+Primera  previa
+ 
